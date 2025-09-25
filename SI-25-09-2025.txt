@@ -1,0 +1,16 @@
+https://github.com/carmelogithub/sistemasinformaticos
+tareas para la siguiente sesión
+1. Descargar iso zorin
+https://zorin.com/os/download/
+17.3 basic use (free) Requisitos 2GB ram y 15 Gb de disco
+
+2. Descargar e instalar oracle virtual box
+https://www.virtualbox.org/wiki/Downloads
+Windows hosts 	168 mb y instalar
+
+3. ccnadesdecero y comenzar a estudiar redes
+
+4. Descargar e instalar packet tracer desde cisco
+https://www.netacad.com/es/articles/news/download-cisco-packet-tracer
+
+login y accedes al curso para descargar
