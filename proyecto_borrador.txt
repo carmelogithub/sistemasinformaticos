@@ -1,0 +1,24 @@
+Proyecto
+https://github.com/carmelogithub/sistemasinformaticos
+
+Grupos de 3
+
+Github
+
+Los alumnos suben a github lo que van avanzando
+Te doy unas pautas y unos requisitos
+fijamos una fechas de entrega parcial para hacer seguimiento.
+y fecha de exposición final del proyecto.15 minutos por grupo explicando
+el proyecto.
+
+Calificación : exposición + entregas parciales
+
+Entrega. PDF min 30 páginas 
+
+Objeto. Crear una escuela de dos aulas para 20 puestos cada una + 1 secretaría + 5 despachos para profesores + zona común de descanso
+
+1 fase creación de la escuela y los equipos 
+2 fase red
+3 fase seguridad
+
+en la exposición, decide qué quieres contar en esos 5 minutos que tienes
