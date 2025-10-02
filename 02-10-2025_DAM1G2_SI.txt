@@ -1,0 +1,88 @@
+Virtualización vs Contenedores
+
+Software de virtualización
+VMWare
+Oracle Virtual Box ***
+Microsoft Hypervisor
+IBM
+
+Máquinas virtuales (2)
+iso
+máquina completa : ova, vmx...o similar
+
+Zorin
+iso - https://zorin.com/os/download/17/core/
+
+
+Kali Linux
+iso - Debes instalar tu el sistema operativo.
+ususario - contraseña, conf regional, teclado, format disco...
+
+máquina creada.
+descarga un archivo .7z - debes descomprimir y muestras los archivos resultantes en una carpeta
+
+*.iso --- nueva máquina
+*.ova --- open -- el fabricante debe darnos usuario / contraseña
+
+Sistemas de compresión.
+zip rar 7z .....
+winzip, winrar....
+
+
+
+
+Recursos necesarios para la próxima sesión - Sólo descargar
+iso de zorin 17 -3.5 Gb
+https://zorin.com/os/download/17/core/
+
+7z de kali linux para Oracle Virtual box -3.4 Gb
+https://www.kali.org/get-kali/#kali-virtual-machines
+
+Descargar e instalar
+winrar
+
+-----------------------------------
+Montar una máquina virtual (iso vs máquina ya creada).
+Montar una ISO.
+Oracle Virtual box - Nueva.
+
+debes elegir 
+dónde está la iso
+dónde se guarda la vm
+configuración de sistema. ram - cpu - disco virtual - red (nat)
+
+Zorin
+Iniciar - Try or install zorin
+Checking archivos - copy - install
+Preguntas de configuración regional - idioma - usuario y contraseña
+usuario zorin
+contraseña zorin
+
+2048 RAM --- 4096 RAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
