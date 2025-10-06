@@ -1,0 +1,90 @@
+06-10-2025 - SI
+
+https://github.com/carmelogithub/sistemasinformaticos
+
+Virtualizacion vs Contenedores
+
+Virtualizar (2)
+1. Activar virtualizacion en BIOS / UEFI
+2. instalar paquetes Microsoft Visual C++ Redistributable
+
+Elegir software de virtualización
+Oracle Virtual Box - https://www.virtualbox.org/wiki/Downloads
+VM Ware - https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+Microsoft Hypervisor - 
+IBM
+
+Diferencias entre Programas y Características de Windows.
+
+--------------------------------------------------------------------------
+Máquina virtual
+iso vs ova
+iso vs vmx
+
+iso - iimagen de sistema operativo b- debes instalar el SO - conf. regional, teclado, usuario, permisos...
+
+Ejemplo. Instalar Zorin
+Zorin OS 17.3
+Core
+
+Ejemplo. Kali Linux
+https://www.kali.org/get-kali/#kali-virtual-machines
+permite descargar máquinas ya montadas
+usuario kali
+contraseña kali
+
+Nuevo para instalar una iso limpia
+Open para abrir una máquina ya creada (se abre la carpeta predeterminada del software de virtualización)
+
+tanto nueva como abrir máquina debemos configurar sus caracteristicas.
+
+Configuraciones. RAM - procesador - espacio en disco duro - red (NAT)
+
+Sistemas operativos. 
+Servicios vs Procesos.
+
+Telnet
+SSH
+servicios web
+FTP
+HTTP / HTTPS
+
+Instalados.
+filezilla server
+xampp 
+
+Packet Tracer - configurar una red básica con un servidor DNS y HTTP
+
+Tareas para la próxima sesión.
+Instalar Zorin
+Instalar Kali Linux (iso o máquina virtual)
+Descargar xampp
+Descargar filezilla server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
