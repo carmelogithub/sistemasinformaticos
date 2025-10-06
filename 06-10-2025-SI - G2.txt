@@ -1,0 +1,23 @@
+06-10-2025 - SI G2
+
+Objetivos de la sesión.
+Zorin iniciado
+Archivo PKT de Packet Tracer que trabajamos hoy.
+
+Servicios en el servidor ------------------
+HTTP / HTTPS - servidor web *****
+Apache
+nginx
+microsoft IIS - característica de Windows
+
+Servicios DHCP ****
+asignar direcciones IP dinámicas
+lo normal es que este servicio esté en el router, pero tb se puede poner en un servidor
+
+Servicios DNS******************
+Traducir IP a nombres de dominio.
+Debes poner DNS server y también añadirlo a cada equipo
+
+
+Entrega. 
+PDf con capturas de imágenes a cescriba@nebrija.es
