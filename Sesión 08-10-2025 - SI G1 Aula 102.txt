@@ -1,0 +1,76 @@
+Sesión 08-10-2025 - SI G1 Aula 102
+https://github.com/carmelogithub/sistemasinformaticos
+
+Objetivos de la sesión
+1. Montar VM Zorin Core 17.3 en Oracle Virtual Box.
+2. Manual Linux para comenzar a trabajar. Github.
+3. Packet Tracer. Servicios dinámicos vs estáticos en IP.
+4. Analizar sistemas informáticos con CPU-Z
+
+cescriba@nebrija.es
+
+1.Zorin---------------------------
+https://zorin.com/os/download/
+Core - 17.3
+Download
+Se descarga un archivo .iso de 3.5 GB
+
+Abrir Oracle Virtual Box
+Nueva - 
+Iso image...seleccionas el archivo iso que has descargado.
+Guardar y Iniciar. Comienza proceso de instalación de sistema operativo.
+
+Antes de iniciar la máquina, revisar su configuración. 
+botón de Configuración podemos ajustar sus recursos de hardware.
+ficha Sistema revisa la RAM asignada. Mínimo 2048 MB
+ficha Red conectar en modo NAT. Tienes conexión en nativa y en la virtual
+ficha Almacenamiento, controlador SATA ...archivo .vdi que es la máquina creada.
+
+Actividad 1. Virtualización.
+Documento de Word con la máquina virtual Zorin 17.3 funcionando. Arrancada y abierta la terminal. Capturas de pantalla.
+
+2. Manual de Linux. 96 páginas en inglés.
+Subido a Github.
+manual de consulta y apoyo para las clases
+
+3. Iniciar Packet Tracer 
+Nociones de redes.
+
+4. CPU-Z
+https://www.cpuid.com/softwares/cpu-z.html
+classic version
+setup english
+descarga un archivo .exe y lo instalas
+
+Consultar CPU-Z para identificar conceptos de sistemas informáticos.
+
+
+Modo entrega:Archivo PDF con tu nombre
+Fecha entrega:08/10/2025 a las 23.59
+ Las dos actividades en el mismo archivo, se envia a correo cescriba@nebrija.es
+
+Actividad 1. Virtualización.
+Documento de Word con la máquina virtual Zorin 17.3 funcionando. Arrancada y abierta la terminal. Capturas de pantalla.
+
+Actividad 2 - Sistemas informáticos
+Instalar CPU-Z y captura de pantalla de la configuración (todas las pestañas) de mi equipo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
