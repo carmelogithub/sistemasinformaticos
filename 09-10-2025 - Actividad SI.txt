@@ -1,0 +1,26 @@
+Actividad
+Enunciado.
+Gestionar usuarios y grupos en Linux.
+
+Tarea
+Crear tres grupos
+administración
+colaboración
+invitados
+
+Crea un usuario llamado juan y lo asocias las grupo colaboración
+Este usuario, tiene su carpeta personal y comprueba que puedes login con este usuario
+en su carpeta personal crea una carpeta nueva llamada Ejercicios (mkdir)
+
+Dentro de la carpeta de Ejercicios crea un archivo de texto llamado saludo (nano saludo)
+con un texto a tu gusto.
+
+Logout del usuario juan
+
+Cambia la contraseña del usuario juan
+
+Cambia a juan al grupo invitados
+Elimina la usuario juan
+
+Entrega.
+Captura de pantalla de cada paso.
